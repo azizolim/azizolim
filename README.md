@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azizolim
-- 👀 I’m interested in GAMEDEV
-- 🌱 I’m currently working with C# and UNITY
+- 👀 I’m interested and working in GameDev 
+- 🌱 I’m currently working with C# and UNITY, also C++, blueprints and Unreal Engine
 - 📫 How to reach me azizolimwow@gmail.com or https://t.me/azizolim by this link
 
 <!---
